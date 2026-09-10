@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Supreme Goggles</string>
-    <string name="welcome_message">به Supreme Goggles خوش اومدی! 🥽</string>
-    <string name="tap_me">بزن روش</string>
-    <string name="tapped_message">دیدی؟ کار کرد! ✅</string>
+    <string name="app_name">Nitro VPN</string>
 </resources>

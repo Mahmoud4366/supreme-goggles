@@ -1,0 +1,13 @@
+Nitro VPN
+Copyright (c) 2026 Mahmoud4366
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3.
+
+Tunnel core is built upon these open-source projects
+(full notices in the app's Licenses screen):
+- sing-box (https://github.com/SagerNet/sing-box) — GPL-3.0
+- WireGuard Android tunnel library (https://www.wireguard.com/) — GPL-2.0
+- hev-socks5-tunnel (https://github.com/heiher/hev-socks5-tunnel) — GPL-3.0
+- Psiphon tunnel core (https://github.com/Psiphon-Inc/psiphon-tunnel-core) — GPL-3.0

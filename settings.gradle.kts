@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Supreme Goggles"
+rootProject.name = "Nitro VPN"
 include(":app")

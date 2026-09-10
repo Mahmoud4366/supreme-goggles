@@ -1,3 +1,2 @@
-# Add project specific ProGuard rules here.
-# You can control the set of applied configuration files using the
-# proguardFiles setting in build.gradle.kts
+# Nitro VPN ProGuard rules (release uses no minification for now).
+# Keep rules for the tunnel core (gomobile) will be added with the core module.
