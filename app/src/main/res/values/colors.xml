@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nitro_bg">#FF0B0F14</color>
+    <color name="nitro_surface">#FF121922</color>
+    <color name="nitro_lime">#FFB4FF2B</color>
+    <color name="nitro_cyan">#FF35E0FF</color>
+    <color name="nitro_purple">#FF7C5CFF</color>
+    <color name="ic_launcher_background">#FF0B0F14</color>
+</resources>
